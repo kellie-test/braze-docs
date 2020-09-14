@@ -22,4 +22,4 @@ curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer {{YOU
 [30]: https://dashboard-01.braze.com/app_settings/api_settings/
 [31]: https://dashboard-01.braze.com/users/user_search/user-search/
 [32]: {{site.baseurl}}/developer_guide/platform_integration_guides/ios/analytics/setting_user_ids/#assigning-a-user-id
-[66]: {{site.baseurl}}/developer_guide/rest_api/messaging/#sending-messages-immediately-via-api-only
+[66]: {{site.baseurl}}/developer_guide/rest_api/messaging/#sending-messages-immediately-via-api-only 
