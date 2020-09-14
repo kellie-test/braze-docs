@@ -8,7 +8,7 @@ description: "If you're an admin, this is where you can manage your company's Co
 
 If you're an admin (you'll see so in the top, right corner), this is where you can manage your company's Contact Information and Timezone.
 
-Make sure to hit _Save_ before you leave the page!
+Make sure to hit _Save_ before you leave the page! 
 
 
 {% alert warning %}
